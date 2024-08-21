@@ -1,1 +1,2 @@
 Practicing Git Commands 
+Trying git stash command 
